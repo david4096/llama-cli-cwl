@@ -1,6 +1,6 @@
 # llama-cli-cwl
 
-cwltool --model_file /Users/davidcs/.cache/lm-studio/models/Qwen/Qwen2-7B-Instruct-GGUF/qwen2-7b-instruct-q2_k.gguf --cwl_file_url "https://raw.githubusercontent.com/h3abionet/h3agatk/1.0.1/workflows/GATK/GATK-complete-WES-Workflow-h3abionet.cwl"
+`cwltool --model_file /Users/davidcs/.cache/lm-studio/models/Qwen/Qwen2-7B-Instruct-GGUF/qwen2-7b-instruct-q2_k.gguf --cwl_file_url "https://raw.githubusercontent.com/h3abionet/h3agatk/1.0.1/workflows/GATK/GATK-complete-WES-Workflow-h3abionet.cwl"`
 
 ```
 Summarize this CWL file https://raw.githubusercontent.com/h3abionet/h3agatk/1.0.1/workflows/GATK/GATK-complete-WES-Workflow-h3abionet.cwl
